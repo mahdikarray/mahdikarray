@@ -1,4 +1,6 @@
-<p align="center"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="mahdikarray" /></p>
+<p align="center">
+  <img src="https://github.com/mahdikarray/mahdikarray/blob/main/Navy Blue Geometric Technology LinkedIn Banner (4).png" alt="mahdikarray" />
+</p>
 <h1 align="center">Hi 👋, I'm Mahdi karray</h1>
 <h3 align="center">I am a Full stack Web developer and Current student who is actively cultivating skills in software development to make an impact with my coding skills and computer science background. I am eager to contribute my energy and enthusiasm to dynamic projects. During my academic journey specialized in web development, I have engaged in hands-on experiences with Many coding languages and frameworks such as javascript ,Angular, React js , Node js and Spring Boot and more.</h3>
 
