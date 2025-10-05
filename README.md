@@ -2,7 +2,7 @@
   <img src="https://github.com/mahdikarray/mahdikarray/blob/main/Navy Blue Geometric Technology LinkedIn Banner (4).png" alt="mahdikarray" />
 </p>
 <h1 align="center">Hi 👋, I'm Mahdi karray</h1>
-<h3 align="center">I am a Full stack Web developer and Current student who is actively cultivating skills in software development to make an impact with my coding skills and computer science background. I am eager to contribute my energy and enthusiasm to dynamic projects. During my academic journey specialized in web development, I have engaged in hands-on experiences with Many coding languages and frameworks such as javascript ,Angular,Laravel,Django, React js , Node js and Spring Boot and more.</h3>
+<h3 align="center">I am a software engineer And Full stack Web developer  who is actively cultivating skills in software development to make an impact with my coding skills and computer science background. I am eager to contribute my energy and enthusiasm to dynamic projects. During my academic journey specialized in web development, I have engaged in hands-on experiences with Many coding languages and frameworks such as javascript ,Angular,Laravel,Django, React js , Node js and Spring Boot and more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdikarray&label=Profile%20views&color=0e75b6&style=flat" alt="mahdikarray" /> </p>
 
