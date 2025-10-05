@@ -1,95 +1,116 @@
-<!-- Profile Header -->
+<!-- 🌟 HEADER / HERO SECTION -->
 <p align="center">
-  <img src="https://github.com/mahdikarray/mahdikarray/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(4).png" alt="Mahdi Karray Banner" />
+  <img src="https://github.com/mahdikarray/mahdikarray/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(4).png" alt="Mahdi Karray Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#4C9EE3;">Mahdi Karray</span></h1>
-<h3 align="center">💻 Software Engineer | 🌐 Full Stack Web Developer | 🚀 Tech Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#58a6ff;">Mahdi Karray</span></h1>
+<h3 align="center">🚀 Software Engineer | 💻 Full Stack Web Developer | 🌍 Tech Enthusiast</h3>
 
 <p align="center">
-  I’m passionate about creating impactful software solutions and continuously learning modern web technologies.<br>
-  Skilled in <b>React, Next.js, Express, Angular, Laravel, Django, Node.js, Spring Boot</b> and more.<br>
-  Always exploring new technologies to build scalable and efficient applications.
+  <a href="mailto:mahdii.karray@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mahdi-karray"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/mahdiikarray"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/mahdikarray"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🌟 About Me
-- 💬 Ask me about **React, Next.js, Express, Angular, Laravel**
-- 📫 Reach me at **[mahdii.karray@gmail.com](mailto:mahdii.karray@gmail.com)**
-- 🌍 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mahdi-karray-03b082275/)**
-- ⚡ Fun fact: I love building creative UI and automating workflows!
+### 💫 About Me
+
+> Passionate about building scalable and impactful web applications using modern technologies.  
+> I love combining **creativity 🎨** with **logic ⚙️** to bring ideas to life through code.  
+
+- 🌱 Currently exploring **Next.js 15, Docker, and AI-driven web apps**
+- 💬 Ask me about **React, Next.js, Node.js, Laravel, Django, Spring Boot**
+- 🎯 Goal: **Create software that makes a real-world impact**
+- ⚡ Fun fact: I love dark themes, clean UI, and strong coffee ☕
 
 ---
 
-### 🤝 Connect with Me
+### 🧠 Tech Stack
+
 <p align="center">
-  <a href="https://linkedin.com/in/mahdi-karray" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/mahdiikarray" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>
-  </a>
-  <a href="mailto:mahdii.karray@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,vue,nodejs,express,java,spring,python,php,laravel,django,mysql,postgres,mongodb,firebase,docker,git,linux,vscode,graphql,postman&perline=10" />
+</p>
+
+---
+
+### 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahdikarray&theme=discord&no-frame=true&no-bg=false&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahdikarray&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mahdi's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdikarray&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdikarray&langs_count=10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdikarray&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### ⚙️ Tools & Platforms I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Projects Highlight
+
+<p align="center">
+  <a href="https://github.com/mahdikarray" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdikarray&repo=your-best-repo&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/mahdikarray" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdikarray&repo=another-repo&theme=radical&hide_border=true" />
   </a>
 </p>
 
+*(Replace `your-best-repo` with actual repository names)*
+
 ---
 
-### 🧰 Languages and Tools
+### 🧩 Fun Corner
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,vue,nodejs,express,java,spring,php,laravel,django,python,mysql,postgres,mongodb,firebase,docker,git,graphql,postman,vscode,linux&theme=light" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+</p>
+
+> “First, solve the problem. Then, write the code.” – John Johnson  
+> “Programming isn’t about what you know; it’s about what you can figure out.”
+
+---
+
+### 🪄 GitHub Badges & Stats Footer
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahdikarray&label=Profile+Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/mahdikarray?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/mahdikarray?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahdikarray&theme=onestar&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdikarray&show_icons=true&theme=radical&hide_border=true" alt="Mahdi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdikarray&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahdikarray&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🗺️ Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdikarray&theme=github-compact&hide_border=true" alt="Mahdi's Contribution Graph" />
-</p>
-
----
-
-### ✨ Fun Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahdikarray&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mahdikarray?label=Followers&style=social" alt="Followers" />
-</p>
-
----
-
-### 🧠 Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-<p align="center">
-  <b>⭐️ From <a href="https://github.com/mahdikarray">Mahdi Karray</a></b>
-</p>
+<h3 align="center">✨ Crafted with ❤️ by <a href="https://github.com/mahdikarray">Mahdi Karray</a> ✨</h3>
