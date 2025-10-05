@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react,next,express**
 
-- 📫 How to reach me **mahdi.karray@esprit.tn**
+- 📫 How to reach me **mahdii.karray@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdi-karray-03b082275/](https://www.linkedin.com/in/mahdi-karray-03b082275/)
 
