@@ -83,12 +83,11 @@
   <a href="https://github.com/mahdikarray" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdikarray&repo=your-best-repo&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/mahdikarray" target="_blank">
+  <a href="[https://github.com/mahdikarray](https://mahdikarray.github.io/Portfolio)" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdikarray&repo=another-repo&theme=radical&hide_border=true" />
   </a>
 </p>
 
-*(Replace `your-best-repo` with actual repository names)*
 
 ---
 
