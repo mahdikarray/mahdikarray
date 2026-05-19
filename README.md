@@ -1,10 +1,7 @@
 <!-- 🌟 HEADER / HERO SECTION -->
-<p align="center">
-  <img src="https://github.com/mahdikarray/mahdikarray/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(4).png" alt="Mahdi Karray Banner" width="100%"/>
-</p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#58a6ff;">Mahdi Karray</span></h1>
-<h3 align="center">🚀 Software Engineer | 💻 Full Stack Web Developer | 🌍 Tech Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | ⚙️ DevOps & Cloud | 🐳 Containerization & CI/CD Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:mahdii.karray@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,11 +14,12 @@
 
 ### 💫 About Me
 
-> Passionate about building scalable and impactful web applications using modern technologies.  
+> Passionate about designing scalable applications and automating their lifecycle from code to production. 
+> I specialize in leveraging DevOps methodologies to build reliable CI/CD pipelines, improve code quality, and optimize system infrastructure. 
 > I love combining **creativity 🎨** with **logic ⚙️** to bring ideas to life through code.  
 
 - 🌱 Currently exploring **Next.js 15, Docker, and AI-driven web apps**
-- 💬 Ask me about **React, Next.js, Node.js, Laravel, Django, Spring Boot**
+- 💬 Ask me about **React, Next.js, Node.js, Laravel, Django, Spring Boot , Jenkins, Docker, Prometheus/Grafana, Microservices**
 - 🎯 Goal: **Create software that makes a real-world impact**
 - ⚡ Fun fact: I love dark themes, clean UI, and strong coffee ☕
 
